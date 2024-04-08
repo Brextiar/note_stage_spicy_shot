@@ -4,10 +4,10 @@
 ## Prérequis sous windows
 * utilisable uniquement avec Win pro ou entreprise X64 >= 10
 * s'assurer qu'Hyper-V, Sous-système pour linux et plateforme de machine virtuelle soient activées  
-  ![Activation fonctionnalités windows](Activation-Virtualisation-BIOS.png)
+  ![Activation fonctionnalités windows](../images/Activation-Virtualisation-BIOS.png)
 * installer docker desktop
   cocher 'use WSL 2'  
-  ![config docker desktop](Config-Docker-WSL2.png)
+  ![config docker desktop](../images/Config-Docker-WSL2.png)
 
 ## Création d'un container
 
