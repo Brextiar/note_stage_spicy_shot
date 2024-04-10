@@ -6,6 +6,8 @@
                  name="Help Instance"
                  start-page="Default-topic.md">
 
+    <toc-element topic="Jour-3-Installation-et-test-des-framework-selectionnés.md"/>
     <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Jour-2-Choix-du-framework-css.md"/>
     <toc-element topic="Docker.md"/>
 </instance-profile>
